@@ -11,6 +11,7 @@ namespace API_nttshop.Controllers
     [ApiController]
     public class UsersController : Controller
     {
+        //Controlador que recogera todo las peticiones en referencia a usuarios
         private readonly UsersBC usersBC = new UsersBC();
 
         [HttpGet]

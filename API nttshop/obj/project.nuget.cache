@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PRKaSeBIyEALEegGoosnbT9j8xL2hvVwJH6r9M1YkfxJJcb6W1R5t1nvIlDDtcoREIjGz+4xR102Q4NjFYkw4A==",
+  "dgSpecHash": "jzhNBCe+4GXAluDGw+yQh0u4mXdetlvqxPW9Ng4thMr/9uNxIXZjYoRTsJdlWJ3rwsk2V6xYkojYZ5NDuQlDVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mmargime\\source\\repos\\API nttshop\\API nttshop\\API nttshop.csproj",
+  "projectFilePath": "C:\\Users\\mmargime\\API-NTTSHOP\\API nttshop\\API nttshop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mmargime\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\mmargime\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

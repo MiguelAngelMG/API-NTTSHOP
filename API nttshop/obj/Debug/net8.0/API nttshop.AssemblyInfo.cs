@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API nttshop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e6b452459077bb512b78632a5090396862d895f")]
 [assembly: System.Reflection.AssemblyProductAttribute("API nttshop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API nttshop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

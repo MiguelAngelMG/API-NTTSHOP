@@ -4815,11 +4815,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mmargime\\source\\repos\\API nttshop\\API nttshop\\API nttshop.csproj",
+      "projectUniqueName": "C:\\Users\\mmargime\\API-NTTSHOP\\API nttshop\\API nttshop.csproj",
       "projectName": "API nttshop",
-      "projectPath": "C:\\Users\\mmargime\\source\\repos\\API nttshop\\API nttshop\\API nttshop.csproj",
+      "projectPath": "C:\\Users\\mmargime\\API-NTTSHOP\\API nttshop\\API nttshop.csproj",
       "packagesPath": "C:\\Users\\mmargime\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mmargime\\source\\repos\\API nttshop\\API nttshop\\obj\\",
+      "outputPath": "C:\\Users\\mmargime\\API-NTTSHOP\\API nttshop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mmargime\\AppData\\Roaming\\NuGet\\NuGet.Config",
